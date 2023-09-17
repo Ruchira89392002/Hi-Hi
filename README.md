@@ -1,9 +1,9 @@
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=642D2DAE&center=true&vCenter=true&width=435&lines=The+is+Dark+Alfha+WhatsApp+Use+Bot;Created+by++Deep+Eagle" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=642D2DAE&center=true&vCenter=true&width=435&lines=The+is+Dark+shadow +WhatsApp+Use+Bot;Created+by++Ruchira" alt="Typing SVG" /></a>
                                                                                                                                                                       </div>                                                                    
   <div align="center">
-  <img src="https://i.ibb.co/frfFSTL/1691320469926.jpg" width="150" height="150" border="0" alt="PFP">
+  <img src="https://i.ibb.co/pn6WnqM/Picsart-23-09-02-18-11-08-323.jpg" width="140" height="140" border="0" alt="PFP">
 
 </div>
 
